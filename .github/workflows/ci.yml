@@ -11,8 +11,8 @@ env:
   GHCR_IMAGE_NAME: ghcr.io/${{ github.repository }}
 
 jobs:
-  environment: docker
   build-and-push:
+    environment: docker
     runs-on: ubuntu-latest
     
     permissions:
