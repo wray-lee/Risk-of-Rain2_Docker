@@ -2,7 +2,6 @@
 
 > Update from [![Github repo](https://img.shields.io/badge/github-repo-blue?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2Favivace%2Fror2-server
 )](https://github.com/avivace/ror2-server). Change base system to debian 13 and optimize logic
-> https://img.shields.io/badge/github-repo-blue?logo=github
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/wraylee/ror2server?style=flat-square)](https://hub.docker.com/r/wraylee/ror2server)
 
